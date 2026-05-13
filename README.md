@@ -1,110 +1,35 @@
-# TheWinterSoldier
+<div align="center">
 
-Building operational software, automation systems and infrastructure-focused tools.
+# Ruben
 
-Focused on:
-- Full-stack development
-- Automation workflows
-- AI integrations
-- Linux & infrastructure
-- Realtime systems
-- Business tooling
+Building operational software, automation systems and scalable tooling.
 
----
+<br>
 
-## Current Stack
+[Portfolio](https://cbnenterprises.com) • [LinkedIn](#) • [Contact](#)
 
-### Languages
-- TypeScript
-- Python
-- JavaScript
-- SQL
-- Bash
-
-### Frontend
-- React
-- Vite
-- TailwindCSS
-
-### Backend
-- Node.js
-- Convex
-- Supabase
-
-### Infrastructure
-- Docker
-- Linux
-- Git
-- Nginx
-
-### Automation & AI
-- n8n
-- Make
-- OpenAI APIs
-- Workflow orchestration
+</div>
 
 ---
 
-# Featured Work
+## About
 
-## Operational Dashboards
-Building realtime dashboards for task management, automation control and business operations.
+I build systems focused on operations, automation and infrastructure.
 
-Features:
-- Realtime updates
-- Activity logging
-- Role-based access
-- Reusable UI systems
-- Project/task orchestration
-
----
-
-## Automation Systems
-Developing workflow automations for:
-- Lead handling
-- Data processing
-- Notifications
-- AI-assisted operations
-- Business integrations
+Most of my work happens in private repositories, mainly around:
+- realtime dashboards,
+- workflow automation,
+- AI integrations,
+- infrastructure tooling,
+- business platforms.
 
 ---
 
-## Infrastructure & Self-Hosting
-Working with:
-- Linux environments
-- Dockerized services
-- Network configuration
-- Wired infrastructure setups
-- Local AI and server environments
-
----
-
-# Current Focus
-
-- Realtime architectures
-- AI-powered operational systems
-- Scalable automation pipelines
-- Infrastructure reliability
-- Full-stack product development
-
----
-
-# Philosophy
-
-I prefer building systems that:
-- solve operational problems,
-- reduce manual work,
-- scale cleanly,
-- stay maintainable long-term.
-
----
-
-# Selected Technologies
+## Stack
 
 ```txt
-Frontend     → React, Vite, Tailwind
-Backend      → Node.js, Convex, Supabase
-Automation   → n8n, Make, Python
-Infrastructure → Docker, Linux, Nginx
-AI           → OpenAI APIs, workflow integrations
-```
+Frontend    React • Vite • Tailwind
+Backend     Node.js • Convex • Supabase
+Automation  Python • n8n • Make
+Infra       Docker • Linux • Nginx
+AI          OpenAI APIs • Workflow orchestration
