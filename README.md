@@ -6,7 +6,7 @@ Building operational software, automation systems and scalable tooling.
 
 <br>
 
-[Portfolio](https://cbnenterprises.com) • [LinkedIn](#) • [Contact](#)
+[Portfolio](https://winter-portfolio.netlify.app)
 
 </div>
 
